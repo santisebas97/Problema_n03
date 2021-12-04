@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Problema03</string>
+    <string name="textview_llave">Ingrese una llave (de 3 a 5 numeros)</string>
+    <string name="edittextnumber_hint_llave">Ingrese la llave</string>
+    <string name="button_text_codificar">Codificar</string>
+    <string name="button_text_descodificar">Descodificar</string>
+</resources>
