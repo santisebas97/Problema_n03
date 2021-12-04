@@ -10,6 +10,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Problema03">
         <activity
+            android:name=".CodificarActivity"
+            android:exported="false" />
+        <activity
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>
